@@ -5,10 +5,10 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 If intersted , Read this [Link](https://neptune.ai/blog/image-processing-python).
 
 # Dataset
-The dataset used can be downloaded here - [Click to Download]([https://neptune.ai/blog/image-processing-python](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)).
+The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
 
-This dataset consists of 4095 images belonging to two classes:
+This dataset consists of 7553 images belonging to two classes:
 
-with_mask: 2165 images
+**with_mask:** 3725 images
 
-without_mask: 1930 images
+**without_mask:** 3838 images
